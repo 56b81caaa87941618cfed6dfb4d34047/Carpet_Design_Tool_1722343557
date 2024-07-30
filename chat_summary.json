@@ -6,5 +6,11 @@
         "timestamp": "1722343557",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a new button with text Click to Move",
+        "timestamp": "30072024124731",
+        "message_id": "guest30072024124730"
     }
 ]
