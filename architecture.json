@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "add a new button with text Click to Move"
+    },
+    {
+        "level": 1,
+        "task_description": "add a new button with text Click to Move"
     }
 ]
