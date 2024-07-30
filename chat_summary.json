@@ -12,5 +12,11 @@
         "content": "add a new button with text Click to Move",
         "timestamp": "30072024124731",
         "message_id": "guest30072024124730"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a new button with text as \"Click to Move\".",
+        "timestamp": "30072024124732",
+        "message_id": "guest30072024124730"
     }
 ]
