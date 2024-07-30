@@ -26,6 +26,9 @@ Vue.component("simple_hero_component_1722343558", {
                         </div>
 
                         <div id="hero-button-3-container" class="flex">
+                            <a id="hero-button-3" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-white bg-purple-600 border border-purple-600 rounded-lg shadow-md sm:w-auto hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50 transition duration-300 ease-in-out">Click to Move</a>
+                        </div>
+                        <div id="hero-button-3-container" class="flex">
                             <a id="hero-button-3" href="#" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Click to Move</a>
                         </div>
                     </div>
